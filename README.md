@@ -19,4 +19,4 @@ KNOWN ASSOC.  Garaža
                       remainder of file withheld
 ```
 
-<sub>[garaza.org](https://garaza.org)</sub>
+<sub>[garaza.org](https://garaza.org/en)</sub>
