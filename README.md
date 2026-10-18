@@ -7,7 +7,6 @@ STATUS        active
 LAST SEEN     ██████████ / San Francisco
 
 OCCUPATION    pre-deal flow for VCs.
-              meets the company before it is one.
 
 PRIOR         founder, ████████
               founder, ███████████
